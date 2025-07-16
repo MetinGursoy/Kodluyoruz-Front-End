@@ -1,0 +1,60 @@
+header {
+    background-color: black;
+}
+
+.header_information {
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    padding: 8px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+}
+
+.menu {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 1.1em;
+}
+
+.menu a:hover {
+    text-decoration: underline;;
+}
+
+.menu a {
+    color: #ddd;
+}
+
+.brand {
+    flex-grow: 1;
+    text-align: center;
+}
+.brand h1  {
+    margin: 0;
+    font-size: 50px;
+    letter-spacing: 8px;
+}
+
+footer {
+    background-color: black;
+}
+
+.footer_information {
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    padding: 8px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+}
+
+h1 {
+    text-align: center; 
+    color: aliceblue; 
+    font-style: italic;
+}
+
+.adres a {
+    color: black;
+}
